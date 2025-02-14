@@ -8,7 +8,7 @@
     --body-font: "Open Sans", serif;
 }
 
-/*i add my computer's width instead of 1440px to assure a better outcome*/
+/*i added my computer's width instead of 1440px to assure a better outcome*/
 body {
     box-sizing: border-box;
     margin: 0;
